@@ -22,21 +22,30 @@ __Steps__ _(Its simple, really - the hardest part will be to read the steps):_
 
 
 •Start your download
+
 •Modify the mains.py file by following the comments therein, and run it on your computer
 
 
 
 •**If the download is interrupted** 
-  •Stop the program (exit)
+
+  •Stop the mains.py program (simply exit)
+  
   •Start the download again, then pause it
+  
   •In the downloads folder, note the name of the new CROWNLOAD file 
+  
   •Rename the previous backup file to this new name
+  
   •In the downloads folder, replace the new CRDOWNLOAD file with the backup file
+  
   •Resume the download again. It will progress from the point it was interrupted
 
 
 
+
 •If the download is not interrupted
+  
   •Congratulations
   
 

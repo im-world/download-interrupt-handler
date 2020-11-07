@@ -31,15 +31,15 @@ __Steps__ _(Its simple, really - the hardest part will be to read the steps):_
 
   •Stop the mains.py program (simply exit)
   
-  •Start the download again, then pause it
+  •Start the download again in a different browser (chrome <-->firefox), then pause it
   
-  •In the downloads folder, note the name of the new CROWNLOAD file 
+  •In the downloads folder, note the name of the new PART file 
   
-  •Rename the previous backup file to this new name
+  •Rename the previous backup file to this new name, along with .part extension
   
-  •In the downloads folder, replace the new CRDOWNLOAD file with the backup file
+  •In the downloads folder, replace the new PART file with the backup file
   
-  •Resume the download again. It will progress from the point it was interrupted
+  •Resume the download again in Firefox. It will progress from the point it was interrupted
 
 
 
